@@ -1,4 +1,4 @@
-- ## Ola eu sou o joao henrique
+- ## Ola eu sou o João Henrique
 
 - 🖥️Estudante de programação
 - 🚀Apaixonadendo por tecnologia e inovação
